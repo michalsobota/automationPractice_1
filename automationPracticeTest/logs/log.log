@@ -1,0 +1,20 @@
+2019-03-05 08:36:51 INFO  [LogLibrary] **************************************************************************************** 
+2019-03-05 08:36:51 INFO  [LogLibrary] $$$$$$$$$$$$$$$$$$$$$                 testEasy       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-03-05 08:36:51 INFO  [LogLibrary] **************************************************************************************** 
+2019-03-05 08:36:51 INFO  [LogLibrary] **************************************************************************************** 
+2019-03-05 08:36:51 INFO  [LogLibrary] ****************** Czysta krew 
+2019-03-05 08:36:51 INFO  [LogLibrary] $$$$$$$$$$$$$$$$$$$$$                 testEasy       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-03-05 08:36:51 INFO  [LogLibrary] **************************************************************************************** 
+2019-03-05 08:36:51 INFO  [LogLibrary] ****************** Ola 
+2019-03-05 08:36:51 INFO  [LogLibrary] ****************** Czysta krew 
+2019-03-05 08:36:51 INFO  [LogLibrary] ****************** Ola 
+2019-03-05 08:36:54 INFO  [LogLibrary] Method: click_searchBarButton Click webElement ca6)] -> xpath: //button[@type='submit']] 
+2019-03-05 08:36:55 INFO  [LogLibrary] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2019-03-05 08:36:55 INFO  [LogLibrary] X 
+2019-03-05 08:36:55 INFO  [LogLibrary] X 
+2019-03-05 08:36:55 INFO  [LogLibrary] Method: click_searchBarButton Click webElement 329)] -> xpath: //button[@type='submit']] 
+2019-03-05 08:36:56 INFO  [LogLibrary] Method: sendKeys_searchBarInput Click webElement 329)] -> id: search_header] 
+2019-03-05 08:36:56 INFO  [LogLibrary] Method: click_searchBarButton Click webElement 329)] -> xpath: //button[@type='submit']] 
+2019-03-05 08:36:58 INFO  [LogLibrary] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2019-03-05 08:36:58 INFO  [LogLibrary] X 
+2019-03-05 08:36:58 INFO  [LogLibrary] X 

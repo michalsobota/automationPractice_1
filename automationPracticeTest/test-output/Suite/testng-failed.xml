@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" guice-stage="DEVELOPMENT" name="Failed suite [Suite]" parallel="tests">
+  <test name="Test_2(failed)" parallel="tests">
+    <classes>
+      <class name="package_3.Test02">
+        <methods>
+          <include name="afterTest"/>
+          <include name="setUp"/>
+          <include name="testEasy"/>
+        </methods>
+      </class> <!-- package_3.Test02 -->
+    </classes>
+  </test> <!-- Test_2(failed) -->
+  <test name="Test_1(failed)" parallel="tests">
+    <classes>
+      <class name="package_2.Test01">
+        <methods>
+          <include name="afterTest"/>
+          <include name="testEasy"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- package_2.Test01 -->
+    </classes>
+  </test> <!-- Test_1(failed) -->
+</suite> <!-- Failed suite [Suite] -->
